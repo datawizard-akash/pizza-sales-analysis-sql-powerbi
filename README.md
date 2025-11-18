@@ -1,7 +1,7 @@
 # pizza-sales-analysis-sql-powerbi
 An end-to-end pizza sales analysis using SQL and Power BI. Includes data cleaning, KPI calculations, trend analysis, best/worst sellers, category/size performance, and an interactive dashboard uncovering revenue drivers and business insights for strategic decision-making.
-🍕 Pizza Sales Analysis Using SQL & Power BI
-🔍 Project Overview
+# 🍕 Pizza Sales Analysis Using SQL & Power BI
+## 🔍 Project Overview
 This project analyses the complete sales performance of a pizza-selling company for the period Jan 2025 – Dec 2025, using SQL for data preparation and Power BI for dashboard creation. The goal was to uncover key insights related to revenue trends, customer ordering behaviour, top-performing pizzas, and operational patterns.
 ________________________________________
 ## 🎯 Objective
