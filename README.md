@@ -12,12 +12,12 @@ To perform an end-to-end data analysis that helps the business identify:
 •	Key revenue drivers
 •	Opportunities to improve sales strategy
 ________________________________________
-🧰 Tools & Technologies
+# 🧰 Tools & Technologies
 •	SQL (MySQL/PostgreSQL) – Data cleaning, transformations, KPI calculations
 •	Power BI – Interactive dashboard, DAX measures, visualization layer
 •	Excel – Initial validation & exploration
 ________________________________________
-🛠 What I Did
+# 🛠 What I Did
 1.	Cleaned and structured raw order, pizza, and category datasets.
 2.	Created staging tables and calculated KPIs (revenue, orders, AOV, pizzas per order).
 3.	Aggregated sales by day, month, size, and category using SQL.
@@ -25,7 +25,7 @@ ________________________________________
 5.	Built a multi-page Power BI dashboard with card KPIs, bar charts, donut charts, and line graphs.
 6.	Designed navigation buttons and slicers for interactive filtering.
 ________________________________________
-📊 Key Insights
+# 📊 Key Insights
 •	Total Revenue: 817.86K
 •	Total Orders: 21,350
 •	Avg Order Value: 38.31
@@ -38,12 +38,12 @@ ________________________________________
 •	Best Category: Classic (26.91% of sales)
 •	Best Size: Large pizzas (375.32K revenue)
 ________________________________________
-📈 Dashboard Overview
+# 📈 Dashboard Overview
 The Power BI report includes:
 •	Overview page with KPIs, daily/monthly trends, category & size breakdowns
 •	Best/Worst Sellers page with top & bottom 5 pizzas
 •	Interactive slicer for pizza categories
 •	Clean navigation for user experience
 ________________________________________
-✅ Conclusion
+# ✅ Conclusion
 This project provides actionable visibility into product performance, operational demand patterns, and revenue behaviour. Insights help the business optimize inventory, focus marketing on best sellers, and plan staffing for peak times.
