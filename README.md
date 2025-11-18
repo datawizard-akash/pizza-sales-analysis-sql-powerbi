@@ -4,7 +4,7 @@ An end-to-end pizza sales analysis using SQL and Power BI. Includes data cleanin
 🔍 Project Overview
 This project analyses the complete sales performance of a pizza-selling company for the period Jan 2025 – Dec 2025, using SQL for data preparation and Power BI for dashboard creation. The goal was to uncover key insights related to revenue trends, customer ordering behaviour, top-performing pizzas, and operational patterns.
 ________________________________________
-🎯 Objective
+## 🎯 Objective
 To perform an end-to-end data analysis that helps the business identify:
 •	Best/worst performing pizzas
 •	Most profitable categories and sizes
